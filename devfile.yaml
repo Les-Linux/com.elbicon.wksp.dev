@@ -1,12 +1,13 @@
 schemaVersion: 2.1.0
 metadata:
   name: Development
+  namespace: leslie-fleming-che-ft209u
 projects:
 - name: com.elbicon.wksp.dev
   git:
     remotes:
       origin: https://github.com/Les-Linux/elbicon.com.wksp.development.git
-- name: backend
+- name: ci_nautobot
   git:
     remotes:
       origin: https://github.tools.sap/naat/ci_nautobot.git
