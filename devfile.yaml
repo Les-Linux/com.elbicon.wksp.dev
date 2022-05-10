@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: wksp
+  name: com-elbicon-wksp
 projects:
   - name: com-elbicon-wksp-dev
     git:
