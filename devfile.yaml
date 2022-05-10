@@ -1,8 +1,8 @@
 schemaVersion: 2.1.0
 metadata:
-  name: com.elbicon.wksp
+  name: com-elbicon-wksp
 projects:
-  - name: com.elbicon.wksp.dev
+  - name: com-elbicon-wksp-dev
     git:
       remotes:
          origin: https://github.com/Les-Linux/elbicon.com.wksp.development.git
