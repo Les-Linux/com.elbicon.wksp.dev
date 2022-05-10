@@ -1,0 +1,12 @@
+schemaVersion: 2.0.0
+metadata:
+  name: Development
+projects:
+- name: com.elbicon.wksp.dev
+  git:
+    remotes:
+      origin: https://github.com/Les-Linux/elbicon.com.wksp.development.git
+- name: backend
+  git:
+    remotes:
+      origin: https://github.tools.sap/naat/ci_nautobot.git
