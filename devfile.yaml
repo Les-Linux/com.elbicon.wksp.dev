@@ -5,7 +5,7 @@ projects:
   - name: com-elbicon-wksp-dev
     git:
       remotes:
-         origin: https://github.com/Les-Linux/elbicon.com.wksp.development.git
+         origin: 'https://github.com/Les-Linux/elbicon.com.wksp.development.git'
 components:
   - attributes:
       app.kubernetes.io/name: tools
