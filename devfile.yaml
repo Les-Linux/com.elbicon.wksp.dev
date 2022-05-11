@@ -6,7 +6,7 @@ projects:
   - name: com-elbicon-wksp-dev
     git:
       remotes:
-         origin: 'http://devfile-registry.openshift-operators.svc:8080/resources/v2/java-spring-petclinic.zip'
+         origin: 'https://github.com/Les-Linux/elbicon.com.wksp.development.git'
 components:
   - container:
       args:
