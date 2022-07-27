@@ -1,0 +1,13 @@
+---
+credential_types:
+  - name: 'ENV_vars'
+    description: 'Credential to insert environment variables'
+    inputs:
+      fields:
+        - id: 'smtp_username'
+          type: 'string'
+          label: 'SMTP_USER'
+        - id: 'smtp_password'
+          type: 'string'
+          label: 'SMTP_PASS'
+          secret: true
